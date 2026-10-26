@@ -1,2 +1,6 @@
 # PROJECT-Pong
 Break the limit
+
+---
+
+Made by **Virat Reddy Kaukuntla** ([@learningnihongo934-byte](https://github.com/learningnihongo934-byte))
